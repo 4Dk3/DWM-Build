@@ -12,7 +12,7 @@ For have all the Power of this dotfiles you will need the following applications
 ·Feh
 ·Flameshot
 ·Thunar
-·Firefox
+·LibreWolf
 ·Vscodium
 ·Spotify(Flatpak)
 ·Qutebrowser
