@@ -81,7 +81,7 @@ static Key keys[] = {
 /* modifier                     key        function        argument */
 	{ MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
 	{ MODKEY,                       XK_c,      spawn,          {.v = termcmd  } },
-	{ MODKEY,                       XK_w,      spawn,          SHCMD("firefox") },
+	{ MODKEY,                       XK_w,      spawn,          SHCMD("librewolf") },
 	{ MODKEY,                       XK_f,      spawn,          SHCMD("thunar") },
 	{ MODKEY,			XK_e,      spawn,	   SHCMD("flatpak run com.spotify.Client") },
 	{ MODKEY,                       XK_z,      spawn,          SHCMD("qutebrowser") },

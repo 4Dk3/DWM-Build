@@ -1,5 +1,5 @@
 dwmblocks &
-feh --bg-fill ~/Wallpapers/0005.jpg &
+feh --bg-fill ~/Wallpapers/0205.jpg &
 picom -b -f --experimental-backends &
 lxpolkit &
 nm-applet &
