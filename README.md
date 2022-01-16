@@ -27,7 +27,7 @@ It haves a bunch of patches to increase his functionality. Those are
 ·Centered Master Layout
 ·Fancybar
 ·Focusmaster-return
-·Full-gaps
+·ru_gaps for Default layout, Bottomstack and Centered master
 ·Movestack
 ·Pertag.
 
