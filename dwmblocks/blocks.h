@@ -7,7 +7,7 @@ static const Block blocks[] = {
 
 	{":", "pamixer --get-volume-human",					1,              50},
 
-	{"🌡:", "sensors | awk '/Core 0/{print $3}'",		        3,		1},
+	{":", "sensors | awk '/Core 0/{print $3}'",		        3,		1},
 
 	{":", "date '+%b %d %X'",             					5,		0},
 };
