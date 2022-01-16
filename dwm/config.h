@@ -80,7 +80,7 @@ static const char *termcmd[]  = { "kitty", NULL };
 static Key keys[] = {
 /* modifier                     key        function        argument */
 	{ MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
-	{ MODKEY,                       XK_c,      spawn,          {.v = termcmd  } },
+	{ MODKEY,                       XK_c,      spawn,          {v = termcmd  } },
 	{ MODKEY,                       XK_w,      spawn,          SHCMD("librewolf") },
 	{ MODKEY,                       XK_f,      spawn,          SHCMD("thunar") },
 	{ MODKEY,			XK_e,      spawn,	   SHCMD("flatpak run com.spotify.Client") },
@@ -118,6 +118,9 @@ static Key keys[] = {
 	{ MODKEY,                       XK_period, focusmon,       {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_comma,  tagmon,         {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_period, tagmon,         {.i = +1 } },
+	{ MODKEY,                       XK_minus,  setgaps,        {.i = -5 } },
+	{ MODKEY,                       XK_plus,   setgaps,        {.i = +5 } },
+	{ MODKEY|ShiftMask,             XK_equal,  setgaps,        {.i = 0  } },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
 	TAGKEYS(                        XK_3,                      2)
@@ -146,4 +149,3 @@ static Button buttons[] = {
 	{ ClkTagBar,            MODKEY,         Button1,        tag,            {0} },
 	{ ClkTagBar,            MODKEY,         Button3,        toggletag,      {0} },
 };
-
