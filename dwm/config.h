@@ -10,14 +10,14 @@ static const unsigned int systraypinning = 0;   /* 0: sloppy systray follows sel
 static const unsigned int systrayspacing = 2;   /* systray spacing */
 static const int systraypinningfailfirst = 1;   /* 1: if pinning fails, display systray on the first monitor, False: display systray on the last monitor*/
 static const int showsystray             = 1;   /* 0 means no systray */
-static const char *fonts[]          = { "Ubuntu Mono Nerd Font:size=10:style=Bold" };
-static const char dmenufont[]       = "Ubuntu Mono Nerd Font:size=10:style=Bold";
-static const char col_gray1[]       = "#161821";
-static const char col_gray2[]       = "#161821";
-static const char col_gray3[]       = "#c6c8d1";
-static const char col_gray4[]       = "#b4be82";
-static const char col_cyan[]        = "#161821";
-static const unsigned int baralpha = 0xd0;
+static const char *fonts[]          = { "Ubuntu Mono Nerd Font:size=11:style=Bold" };
+static const char dmenufont[]       = "Ubuntu Mono Nerd Font:size=11:style=Bold";
+static const char col_gray1[]       = "#2e3440";
+static const char col_gray2[]       = "#2e3440";
+static const char col_gray3[]       = "#d8dee9";
+static const char col_gray4[]       = "#bf616a";
+static const char col_cyan[]        = "#2e3440";
+static const unsigned int baralpha = 0xd5;
 static const unsigned int borderalpha = OPAQUE;
 static const unsigned int overlayalpha = 0x30;
 static const char *colors[][3]      = {
