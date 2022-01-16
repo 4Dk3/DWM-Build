@@ -4,7 +4,7 @@ My build for the Suckless Window Manager DWM
 # Requirements for a Functional build
 For have all the Power of this dotfiles you will need the following applications and dependencies.
 ·Ubuntu Mono Nerd Font
-·Font Awesome
+·Font Awesome Version 5
 ·Pamixer
 ·Kitty
 ·light
@@ -28,6 +28,7 @@ It haves a bunch of patches to increase his functionality. Those are
 ·Fancybar
 ·Focusmaster-return
 ·Full-gaps
-·Movestack.
+·Movestack
+·Pertag.
 
 End.
