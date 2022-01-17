@@ -18,6 +18,8 @@ For have all the Power of this dotfiles you will need the following applications
 ·Qutebrowser
 ·Any Linux Distribution.
 
+Also you should rename the folder dwm to .dwm and put it to your home directory.
+
 # What patches this build have?
 It haves a bunch of patches to increase his functionality. Those are
 ·Alpha 
