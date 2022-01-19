@@ -1,0 +1,26 @@
+[
+    {
+        "iconPath": ":duckduckgo",
+        "name": "DuckDuckGo",
+        "trigger": "dd ",
+        "url": "https://duckduckgo.com/?q=%s"
+    },
+    {
+        "iconPath": "/home/dk43/.config/albert/org.albert.extension.websearch/{9b27ded6-d3f0-4a70-8bcd-41973cd3416d}.png",
+        "name": "Nixos",
+        "trigger": "nx",
+        "url": "search.nixos.org/packages"
+    },
+    {
+        "iconPath": ":youtube",
+        "name": "Youtube",
+        "trigger": "yt ",
+        "url": "https://www.youtube.com/results?search_query=%s"
+    },
+    {
+        "iconPath": ":github",
+        "name": "GitHub",
+        "trigger": "gh ",
+        "url": "https://github.com/search?utf8=✓&q=%s"
+    }
+]
