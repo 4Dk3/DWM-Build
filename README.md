@@ -33,5 +33,7 @@ It haves a bunch of patches to increase his functionality. Those are
 ·Movestack
 ·Pertag.
 
-# Screenshot
+# Screenshot Nord
 ![image](https://user-images.githubusercontent.com/82821885/149667916-fd5700ac-6fcd-462e-9025-ab54749d412c.png)
+# Screenshot Solarized
+![image](https://user-images.githubusercontent.com/82821885/150061411-c3ea78d6-c901-491e-b772-59d1f5f48e4a.png)
