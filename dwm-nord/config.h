@@ -2,7 +2,7 @@
 
 /* appearance */
 static const unsigned int borderpx  = 1;        /* border pixel of windows */
-static const int gappx     = 5;                 /* gaps between windows */
+static const int gappx              = 6;                 /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
@@ -10,8 +10,8 @@ static const unsigned int systraypinning = 0;   /* 0: sloppy systray follows sel
 static const unsigned int systrayspacing = 2;   /* systray spacing */
 static const int systraypinningfailfirst = 1;   /* 1: if pinning fails, display systray on the first monitor, False: display systray on the last monitor*/
 static const int showsystray             = 1;   /* 0 means no systray */
-static const char *fonts[]          = { "Ubuntu Mono Nerd Font:size=11:style=Bold" };
-static const char dmenufont[]       = "Ubuntu Mono Nerd Font:size=11:style=Bold";
+static const char *fonts[]          = { "Ubuntu Mono Nerd Font:size=10:style=Bold" };
+static const char dmenufont[]       = "Ubuntu Mono Nerd Font:size=10:style=Bold";
 static const char col_gray1[]       = "#2e3440";
 static const char col_gray2[]       = "#2e3440";
 static const char col_gray3[]       = "#d8dee9";
