@@ -28,10 +28,12 @@ It haves a bunch of patches to increase his functionality. Those are
 ·Bottomstack Layout
 ·Centered Master Layout
 ·Fancybar
-·Focusmaster-return
 ·ru_gaps for Default layout, Bottomstack and Centered master
 ·Movestack
 ·Pertag.
+·Warp
+·Status all mons
+·Attach Bottom
 
 # Screenshot Nord
 ![image](https://user-images.githubusercontent.com/82821885/149667916-fd5700ac-6fcd-462e-9025-ab54749d412c.png)
